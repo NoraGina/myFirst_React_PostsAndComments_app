@@ -1,0 +1,19 @@
+
+fieldset{
+    padding: 5px;
+}
+
+legend{
+    font-style: italic;
+    padding: 5px;
+}
+
+.comments-container{
+    margin-top: 65px;
+   
+}
+.my-card{
+    margin: "auto";
+    width: "30rem";
+    
+}
